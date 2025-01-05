@@ -10,6 +10,7 @@ Then you can run the program by running:
 ./run.sh [PROGRAM_TO_BREAK] (secretName secret)*
 ```
 [] = required
+
 ()* = if included, must be included in the format inside the parenthesis
 
 ## Purpose
